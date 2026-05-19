@@ -81,23 +81,5 @@ The project utilised a retail supermarket sales dataset containing 1,000+ transa
 - Analytical Problem Solving
 
 
-# Folder Structure
-
-Retail-Customer-Sales-Analytics/
-│
-├── README.md
-│
-├── images/
-│   ├── sales-dashboard.png
-│   ├── customer-dashboard.png
-│   └── inventory-dashboard.png
-│
-├── dataset/
-│   └── supermarket-sales.csv
-│
-└── powerbi/
-    └── retail-analytics-dashboard.pbix
-
-
 # Tags
 #PowerBI #BusinessIntelligence #DataAnalytics #DashboardDevelopment #CustomerAnalytics #RetailAnalytics #SQL #DataVisualization #AnalyticsProject #BusinessAnalytics #KPIReporting #DataInsights #MarketingAnalytics #ProcurementAnalytics #PowerBIDashboard #GitHubProjects
